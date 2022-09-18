@@ -85,10 +85,10 @@ WSGI_APPLICATION = 'mybicimarket.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd837rqrjcjvk94',
-        'USER': 'awvzyqkgvcwthx',
-        'PASSWORD': '078ef79a91bfb377fb55a9be09b477c51bef7182d21fa8279f4c439a5c4badd2',
-        'HOST': 'ec2-35-168-122-84.compute-1.amazonaws.com',
+        'NAME': 'datq685s4njg4m',
+        'USER': 'mqyzeondkpuacp',
+        'PASSWORD': '87e5ff6702bdc39a878878e470716d343035dc1718fdebc64103dfdb7780f309',
+        'HOST': 'ec2-35-170-146-54.compute-1.amazonaws.com',
         'PORT': '5432'
     }
 }
